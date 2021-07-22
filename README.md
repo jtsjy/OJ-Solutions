@@ -14,11 +14,11 @@
 
 ### Websites
 My solutions are according to the problems from the following websites.
-|     Name      |                URL                         |
-| :-----------: | :----------------------------------------: |
-| OpenJudge-NOI |    [noi.openjudge.cn](noi.openjudge.cn)    |
-|     Ybt       | [ybt.ssoier.cn:8088/](ybt.ssoier.cn:8088/) |
-|    Luogu      |    [www.luogu.com.cn](www.luogu.com.cn)    |
+|     Name      |                      URL                           |
+| :-----------: | :------------------------------------------------: |
+| OpenJudge-NOI |    [noi.openjudge.cn](https://noi.openjudge.cn)    |
+|     Ybt       | [ybt.ssoier.cn:8088/](https://ybt.ssoier.cn:8088/) |
+|    Luogu      |    [www.luogu.com.cn](https://www.luogu.com.cn)    |
 
 ---
 
