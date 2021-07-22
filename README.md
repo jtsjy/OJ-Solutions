@@ -12,3 +12,14 @@
 |      Compiler     |     GCC/G++ 4.8.4   |
 |      Debugger     | GDB 7.7.1/DDD 3.3.12|
 
+### Websites
+My solutions are according to the problems from the following websites.
+|     Name      |                URL                         |
+| :-----------: | :----------------------------------------: |
+| OpenJudge-NOI |    [noi.openjudge.cn](noi.openjudge.cn)    |
+|     Ybt       | [ybt.ssoier.cn:8088/](ybt.ssoier.cn:8088/) |
+|    Luogu      |    [www.luogu.com.cn](www.luogu.com.cn)    |
+
+---
+
+<img src="https://user-images.githubusercontent.com/42601869/126608086-f1153dda-c032-4fcb-9b7a-9db9d2ad7e9e.jpg" width="50" height="50" />   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Written By ITProgrammer_
